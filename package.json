@@ -1,0 +1,17 @@
+{
+  "name": "hairink-solutions",
+  "version": "1.0.0",
+  "description": "HairInk Solutions \u2014 Hair transplant problems & tattoo / SMP / paramedical services portal (USA)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "pages": "echo Open index.html or deploy to GitHub Pages"
+  },
+  "keywords": [
+    "hair",
+    "smp",
+    "tattoo",
+    "paramedical"
+  ],
+  "license": "UNLICENSED"
+}
